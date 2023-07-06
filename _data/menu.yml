@@ -18,10 +18,11 @@ entries:
 
   - title: posts by category
     post_list:
-      category: example2
+      category: translation
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
+
 
   
   # - title: another list
@@ -34,9 +35,9 @@ entries:
 
   - title: contact
     entries:
-      - title: Instagram (i only shitpost and take post either dogs or park pics there)
-        url: https://www.instagram.com/kappa_scute
       - title: sirnhat0@gmail.com
       - title: "<b>(+84)</b> 338-214-140"
+      - title: Other hobby links 
+        url: https://nhatkothieunang.web.app/
 
         
