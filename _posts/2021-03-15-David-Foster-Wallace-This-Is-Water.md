@@ -3,9 +3,8 @@ layout: post
 category: translation
 ---
 
-THIS IS WATER
 Dịch từ bài diễn văn của David Foster Wallace (tác giả của cuốn Infinite Jest) vào năm 2005 trong buổi lễ phát bằng tại trường đại học Kenyon, Mỹ.
-───
+<hr>
 Kính chào quý phụ huynh và xin chúc mừng các bạn sinh viên tốt nghiệp niên khóa 2005 của trường Kenyon.
 Có hai chú cá con đang bơi cùng nhau vào một ngày nọ thì chợt gặp một chú cá già bơi ngược phía, cá già chào và nói “Chào buổi sáng mấy cu, hôm nay nước thế nào?”. Hai chú cá con tiếp tục bơi một hồi và cuối cùng một trong hai con quay con kia sang mà thốt “Nước là cái méo gì?” <br>
 
