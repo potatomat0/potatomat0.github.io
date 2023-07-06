@@ -4,10 +4,10 @@
 entries:
   - title: info
     entries:
-      - title: Personal Blog Page of Kappa_Scute (I'm literally nobody)
+      - title: Personal Blog Page of Nhat Kappa Hoang (I'm literally nobody)
       - title: github repo
-        url: https://github.com/
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+        url: https://github.com/potatomat0/potatomat0.github.io
+      # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: all posts
     post_list:
@@ -24,15 +24,19 @@ entries:
       show_more_url: example2-archive.html
 
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
+  # - title: another list
+  #   entries:
+  #     - title: with subitems
+  #       entries:
+  #         - title: with subsubitems
+  #         - title: example page
+  #           url: about
 
   - title: contact
     entries:
-      -title: instagram
+      - title: Instagram (i only shitpost and take post either dogs or park pics there)
         url: https://www.instagram.com/kappa_scute
+      - title: sirnhat0@gmail.com
+      - title: "<b>(+84)</b> 338-214-140"
+
+        
