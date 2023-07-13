@@ -4,7 +4,7 @@
 entries:
   - title: info
     entries:
-      - title: Personal Blog Page of Nhat Kappa Hoang (I'm literally nobody)
+      - title: Nhat Kappa Hoang's personal blog - Junior Web Developer, only hobbies are walking and playing tetris at 3 pieces/second
       - title: github repo
         url: https://github.com/potatomat0/potatomat0.github.io
       # - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
@@ -16,7 +16,7 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: translation works
     post_list:
       category: translation
       show_more: true
