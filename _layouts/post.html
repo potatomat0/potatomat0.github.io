@@ -13,3 +13,28 @@ layout: default
 
   {{ content }}
 </article>
+
+<script>
+const textElements = document.querySelectorAll('p');
+
+const textOptions = {
+threshold: 0,
+rootMargin: "0px 0px -100px 0px"
+};
+
+const textObserver = new IntersectionObserver((entries, textObserver) => {
+entries.forEach(entry => {
+  if (!entry.isIntersecting) {
+    return;
+  } else {
+    entry.target.classList.add('appear');
+    textObserver.unobserve(entry.target);
+  }
+});
+}, textOptions);
+
+textElements.forEach(text => {
+textObserver.observe(text);
+});
+
+</script>
