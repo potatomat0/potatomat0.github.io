@@ -5,9 +5,10 @@ category: translation
 
 *Dịch từ bài diễn văn của David Foster Wallace (tác giả của cuốn Infinite Jest) vào năm 2005 trong buổi lễ phát bằng tại trường đại học Kenyon, Mỹ.*
 <hr>
-Kính chào quý phụ huynh và xin chúc mừng các bạn sinh viên tốt nghiệp niên khóa 2005 của trường Kenyon.
-Có hai chú cá con đang bơi cùng nhau vào một ngày nọ thì chợt gặp một chú cá già bơi ngược phía, cá già chào và nói “Chào buổi sáng mấy cu, hôm nay nước thế nào?”. Hai chú cá con tiếp tục bơi một hồi và cuối cùng một trong hai con quay con kia sang mà thốt “Nước là cái méo gì?” 
 
+Kính chào quý phụ huynh và xin chúc mừng các bạn sinh viên tốt nghiệp niên khóa 2005 của trường Kenyon.
+
+Có hai chú cá con đang bơi cùng nhau vào một ngày nọ thì chợt gặp một chú cá già bơi ngược phía, cá già chào và nói “Chào buổi sáng mấy cu, hôm nay nước thế nào?”. Hai chú cá con tiếp tục bơi một hồi và cuối cùng một trong hai con quay con kia sang mà thốt “Nước là cái méo gì?” 
 
 Trên đây là văn mẫu điển hình cho một buổi diễn văn phát bằng tại Mỹ - Kể ra một câu chuyện dạy đời nho nhỏ. Câu chuyện trên tính ra cũng hay và đỡ nhảm nhí hơn mô-típ thông thường, nhưng nếu các bạn lo là tôi cố tình trình diện bản thân ra đây với tư cách là con cá già khôn ngoan để dạy dỗ cá con biết thế nào là nước, thì xin đừng. Tôi không phải là con cá già khôn ngoan. Cốt yếu của câu chuyện kia là về việc những sự thật hiển nhiên, quan trọng nhất lại thường là những thứ khó có thể nhận ra hay nói về nhất. Nói như trong tiếng anh, thì đương nhiên, điều này chỉ là một thứ hiển nhiên đến mức vô nghĩa, nhưng hóa ra trong suốt sự tồn tại ngày qua ngày dài hơi của người lớn, những điều hiển nhiên đến mức vô nghĩa này lại mang tầm quan trọng cực kỳ thiết yếu, có lẽ vậy mà tôi muốn khuyên bạn vài điều vào buổi sáng khô ráo dễ chịu hôm nay. 
 
@@ -72,6 +73,7 @@ Tôi biết là điều này nghe chẳng vui vẻ hay tràn đầy cảm hứng
 Sự thật khách quan ở đây ý tôi là về sự sống TRƯỚC cái chết.
 
 Sự thật khách quan ở đây là giáo dục thực chất chẳng liên quan gì đến kiến thức cả, nhưng lại liên quan hoàn toàn đến sự nhận thức cơ bản; sự nhận thức được những thứ có thật và thiết yếu, những thứ mà vẫn luôn xung quanh ta nhưng vẫn không thể nhìn ra được, mà khiến ta phải luôn tự nhủ trong đầu mình rằng: 
+
 *“Đây là nước.”* 
 
 *“Đây là nước.”*
@@ -81,4 +83,4 @@ Việc trở nên ý thức và tỉnh táo trong suốt cuộc đời người 
 Tôi chúc các bạn trên cả may mắn.
 <hr>
 
-the original transcript can be found here: https://jamesclear.com/great-speeches/this-is-water-by-david-foster-wallace
+the original transcript can be found here: [david foster wallace - this is water full transcript](https://jamesclear.com/great-speeches/this-is-water-by-david-foster-wallace)
